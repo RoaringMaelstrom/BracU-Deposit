@@ -5,6 +5,8 @@ NHL : Lecture notes (NHL) https://drive.google.com/drive/folders/1bQNBbnkSQ2gJ5e
 # Faculty youtube links
 Dewan Ziaul Karim (DZK) : Spring 22 online classes https://www.youtube.com/playlist?list=PLzzYtJMBTYCcVH56uHLz0f7eJI0JNAEyQ  
 Dewan Ziaul Karim (DZK) : Youtube channel https://www.youtube.com/@dewanziaulkarim1891/videos  
-
+# Online tools  
+All-in-one : https://booleanmaster.com/  
+  
 // Sorry if the links in this file feel lack-luster and disorganized. Unique online resources outside of official material is sparse.  
 // You are advised look up indiviual topics of digital logic design (DLD) on your own.
